@@ -1,0 +1,19 @@
+{
+  "knowledgebaseeditor": [
+    {
+      "id": 1,
+      "knowledge": "อาหารจีน",
+      "Rule": [
+        {
+          "Rulename": "if s then h",
+          "description": "h>3"
+        },
+        {
+          "Rulename": "vvvvvvvvvvvvvvvvvvvvvvvv",
+          "description": "hhhhhhhhhhhhhhhhhh"
+        }
+      ],
+      "description": ""
+    }
+  ]
+}
